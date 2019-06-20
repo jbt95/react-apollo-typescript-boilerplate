@@ -1,1 +1,1 @@
-## react-graphql-boilerplate
+## react-apollo-typescript-boilerplate
