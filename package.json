@@ -5,7 +5,7 @@
     "start": "lerna run dev --parallel --stream"
   },
   "devDependencies": {
-    "graphql-code-generator": "^0.15.2",
+    "graphql-code-generator": "^0.18.2",
     "lerna": "^3.8.0"
   },
   "dependencies": {
